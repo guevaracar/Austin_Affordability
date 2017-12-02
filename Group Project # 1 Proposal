@@ -1,0 +1,35 @@
+Our group is group #3 in the Monday, Wednesday Cohort:
+
+Our members include Lonnie Hendry, John Swyers, Ke Zhao (Kelly), and Carlos Guevara
+
+Proposal Outline
+
+Background to our proposal.  Each of our group members shared an interest in real estate and felt it would be a topic that is relatable to our classmates.  We feel our analysis will be something our classmates will be interested in since most of them presumably live in or near Austin.
+
+Our project is to determine if a "first-time homebuyer" can afford to purchase a house in Austin, TX.  We'll examine relationships between home prices (2012 through 2016) and median income; home affordability and changes in median income; trends in pricing based on zip code and neighborhood; and related questions, as the data admits.  Our analysis will be based on a hypothetical "first-time homebuyer" profile created from data compiled by industry sources.  We will determine what the first-time homebuyer looks like in terms of income, age, down-payment availability, etc.  That profile will be utilized to determine if he/she can afford to buy a house each year of the analysis. 
+
+Our data will consist of real estate sales, listing and other property characteristic information.  This data will be sourced from providers such as Trulia, Zillow, Austin multiple listing service and Redfin.  We will use a combination of data from API calls and downloaded CSV files to create a comprehensive data set.  We will also incorporate data from datausa to help in the creation of our "first-time homebuyer" profile.  
+
+We should be able to create a data set with enough information to conduct the type of analysis we have described above.  
+
+The questions we hope to answer from the analysis are as follows:
+
+Based on stated assumptions. How much house can our typical "first-time homebuyer" afford to buy in each year of the sample?  
+
+What zip codes (if any) in the city of Austin would our "first-time homebuyer" be able to afford to buy a home?
+
+Do the affordable zip codes remain the same over the analysis period?  If so, is it due to nominal changes in the real estate value of homes in those zip codes?  Are those zip codes' home values remaining stagnant due to any determinable issues within the data such as poor school performance, lack of available homes for sale, etc...
+    
+If the zip codes change, do new/different zip codes show up as affordable over the analysis period?  Does the data support any determinable reasons why, like above?
+
+If no zip codes are deemed affordable, our analysis will then change focus to "What income would a first-time homebuyer have to earn to afford a home in Austin?"  How much more than the median income is required?  
+
+We will also attempt to determine the Buy vs. Rent Breakeven Horizon
+Note: The “breakeven horizon” is defined by Zillow as the point, in years, at which buying a home becomes less expensive than renting the same home.
+
+Conclusion:
+
+Upon conclusion of our analysis we hope to able to chart affordable zip codes by year.  If multiple zip codes are deemed affordable, then to zoom in to the neighborhood level and see which neighborhoods are most affordable.  If no zip codes are deemed affordable, then what changes to our buyer profile would we have to make.  Even if no zip codes are deemed affordable, we will determine which ones are "most affordable".
+
+If any patterns are identified in the data we will graphically display them.
+
